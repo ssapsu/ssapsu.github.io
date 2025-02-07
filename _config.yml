@@ -1,13 +1,13 @@
 # Site
-title: Moonrise
-bio: "Minimal, one column jekyll theme."
-description: "Moonrise is a fresh take on the classic Moon"
+title: 헝꾸야~
+bio: "Robotics Engineer & AI Researcher"
+description: "내 언어의 한계는 내 세계의 한계이다。"
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
 background: "assets/img/moonrise-background.jpg"
 tiled_bg: false # Set this true if you want to tile your background image, otherwise it will be covered
-locale: en_US
+locale: ko_KR
 url: https://TolgaTatli.github.io/Moonrise
 
 # Jekyll
