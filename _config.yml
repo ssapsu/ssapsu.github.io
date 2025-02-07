@@ -37,14 +37,14 @@ sass:
 #ad-slot:
 #bing-verify:
 blog: https://blog.naver.com/hans324oh
-email: hans324oh@gmail.com
+#email: hans324oh@gmail.com
 #twitter: username
 #facebook: username
-github-url: https://github.com/ssapsu
+github-url: ssapsu
 #stackoverflow: 123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin: https://www.linkedin.com/in/%ED%98%84%EC%88%98-%EC%98%A4-3ab8ba2b8
+linkedin: %ED%98%84%EC%88%98-%EC%98%A4-3ab8ba2b8
 #xing: username
-instagram: https://www.instagram.com/gustn.__.324
+instagram: gustn.__.324
 #lastfm: username
 #tumblr: username
 #medium: '@username'
