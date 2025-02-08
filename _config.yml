@@ -1,7 +1,8 @@
+
 # Site
-title: "헝꾸야~"
-bio: "Robotics Engineer & AI Researcher"
-description: "내 언어의 한계는 내 세계의 한계이다."
+title: Hyeonsu Oh
+bio: "Minimal, one column jekyll theme."
+description: "Moonrise is a fresh take on the classic Moon"
 reading_time: true
 words_per_minute: 200
 logo: "assets/img/logo.png"
@@ -36,7 +37,8 @@ sass:
 #ad-client:
 #ad-slot:
 #bing-verify:
-email: hans324oh@gmail.com
+blog: https://blog.naver.com/hans324oh
+#email: hans324oh@gmail.com
 #twitter: username
 #facebook: username
 github-url: ssapsu
@@ -52,7 +54,7 @@ instagram: gustn.__.324
 #steam: username
 #dribbble: username
 #youtube: username
-youtube-channel: @오현수-f7e
+youtube-channel: https://www.youtube.com/@%EC%98%A4%ED%98%84%EC%88%98-f7e
 #soundcloud: username
 #weibo: username
 #flickr: username
